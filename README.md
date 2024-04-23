@@ -1,4 +1,4 @@
-# Python-GUI-SnakeGame
+
 # Python GUI Snake Game
 This project is a simple implementation of the classic Snake game using Python’s turtle module. The game includes a snake that moves around the screen, eating food and growing in length. The game ends if the snake collides with the wall or with its own body.
 
