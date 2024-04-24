@@ -18,3 +18,8 @@ The score board keeps track of the player’s score, which increases each time t
 turtle: This is a pre-installed Python library that enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called the “turtle”.
 random: This module implements pseudo-random number generators for various distributions including integer and float. We use it to generate random locations for the food.
 time: This module provides various time-related functions. We use it to control the speed of the game.
+
+# Installation
+1. Clone this repository.
+2. Navigate to the repository in your terminal.
+3. Run `python day20.py` to start the game.
